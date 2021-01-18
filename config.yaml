@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "https://subsystemcoding.github.io/socialpixel/"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
