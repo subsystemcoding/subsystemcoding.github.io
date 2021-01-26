@@ -19,22 +19,22 @@ params:
   description: 
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image: logos/logo.ico
     link: /
   font:
     name: "Open Sans"
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Click. Share.
+    title: Play. Explore. Meet.
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: We are ready to serve you differently.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
     buttonlink: "https://subsystemcoding.github.io/socialpixel/"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/phone_dog.jpg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - systek
@@ -44,7 +44,7 @@ params:
     - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Features
+  - title: About
     url: /
   - title: Download
     url: /
@@ -52,9 +52,9 @@ params:
     sublinks:
     - title: Documentation
       url: /
-    - title: Frequently Asked Questions
+    - title: FAQs
       url: /
-    - title: Customer Support
+    - title: Customer Service
       url: /
   - title: Log in
     url: /
@@ -62,8 +62,8 @@ params:
     url: /
     button: true
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
+    title: A new world is rising,
+    subtitle: Let's discover it.
     tiles:
     - title: App builder
       icon: mouse-globe
