@@ -4,7 +4,7 @@ Fresh Footer
 
 footer.footer-dark {
     background: $blue-grey;
-    color: $black;
+    color: $white;
     .columns {
         margin-top: 35px;
     }
@@ -34,7 +34,7 @@ footer.footer-dark {
             }
         }
         .level-item .icon {
-            color: $black;
+            color: $secondary;
             transition: all 0.5s;
             :hover {
                 color: $smoke-white;

@@ -11,7 +11,7 @@ Section Styles
         background-color: $section-grey;
     }
     &.section-secondary {
-        background-color: $frost;
+        background-color: $secondary;
     }
     &.section-half {
         height: 75vh !important;
@@ -72,12 +72,12 @@ img.pushed-image {
             display: block;
         }
         .icon-box-title {
-            color: $black;
+            color: $blue-grey;
             font-size: 1.2rem;
             font-weight: 600;
         }
         .icon-box-text {
-            color: $grey;
+            color: $title-grey;
             font-size: 1rem;
             font-weight: 400;
         }
