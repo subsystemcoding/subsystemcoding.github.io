@@ -120,7 +120,7 @@ params:
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: logos/sp.PNG
+    logo: social.png
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
@@ -136,7 +136,9 @@ params:
       icon: twitter
     - link: https://bitbucket.org/#
       icon: bitbucket
-    bulmalogo: true
+      
+    sociologo: true    
+    
     quicklinks:
       column1:
         title: "Product"
@@ -169,3 +171,4 @@ params:
           link: /
         - text: Tech articles
           link: /
+      
