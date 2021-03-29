@@ -48,7 +48,7 @@ params:
   - title: About
     url: /
   - title: Download
-    url: /
+    url: https://subsystemcoding.github.io/socialpixel/
   - title: Support
     sublinks:
     - title: Documentation
