@@ -52,7 +52,7 @@ params:
   - title: Support
     sublinks:
     - title: Documentation
-      url: /
+      url: https://socialpixel.s3.me-south-1.amazonaws.com/privacy.html
     - title: FAQs
       url: /
     - title: Customer Service
