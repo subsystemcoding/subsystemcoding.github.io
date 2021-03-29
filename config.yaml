@@ -59,6 +59,8 @@ params:
       url: /
     - title: Privacy Policy
       url: https://socialpixel.s3.me-south-1.amazonaws.com/privacy.html
+    - title: Terms and Conditions
+      url: https://socialpixel.s3.me-south-1.amazonaws.com/terms.html
   - title: Log in
     url: /
   - title: Sign up
