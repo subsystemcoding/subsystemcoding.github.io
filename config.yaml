@@ -57,6 +57,8 @@ params:
       url: /
     - title: Customer Service
       url: /
+    - title: Privacy Policy
+      url: https://socialpixel.s3.me-south-1.amazonaws.com/privacy.html
   - title: Log in
     url: /
   - title: Sign up
