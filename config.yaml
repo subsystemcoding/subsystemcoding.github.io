@@ -28,7 +28,8 @@ params:
     # Main hero title
     title: Play. Explore. Meet.
     # Hero subtitle (optional)
-    subtitle: We are ready to serve you differently.
+    subtitle: We are ready to serve you differently. Striving towards being the number one social media platform, by engaging users in unique and competetive games and providing a secure environment to interact. Our group has an aim to perfect ourselves through learning about user- requiremenets in more detail, so we can improvise our functionalities through careful observation.
+    
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -72,25 +73,26 @@ params:
     tiles:
     - title: Share
       icon: share # https://www.flaticon.com/free-icon/share_4091538?term=share&page=1&position=66&page=1&position=66&related_id=4091538&origin=search
-      text: Like and Share all the wonders you see.
+      text: Like and Share all the wonders you see. Start to scroll through the posts and channels created by us to help improve communication and sightseeing virtually.
       url: /
       buttonText: Try it Out!
     - title: Chat to Play
       icon: chat # https://www.flaticon.com/free-icon/feedback_4110142?term=chat&page=1&position=65&page=1&position=65&related_id=4110142&origin=search
-      text: Chat with fellow animal lovers and arrange play dates!
+      text: Chat with fellow animal lovers and arrange play dates! This is a function created to help users connect and explore the various screens.
       url: /
       buttonText: Get Started
     - title: Play Games
       icon: game # https://www.flaticon.com/free-icon/game-console_1083364?term=game&related_id=1083364
-      text: Join us to play games about your four-legged friends!
+      text: Join us to play games about your four-legged friends! The game is developed in accordance to the specifications and needs of the consumers. Discover our map and channels screen to view the nearby images, find them and get rewarded.
       url: /
       buttonText: Game On!
   section2:
-    title: The One and Only app 
+    title: The One and Only interactive app which is developed by SubsystemCoding 
     subtitle: For the World Outside
     features:
-    - title: Unified and User-Friendly Interface
-      text: To have an ideal browsing and interaction experience with any screen size, platform, or orientation, we use sensitive web design concepts. This gives all the rich experiences of every user that you use. # https://docs.microsoft.com/en-us/power-platform/admin/about-unified-interface
+    - title: Our Vision
+      text: To have an ideal browsing and interaction experience with any screen size, platform, or orientation, we use sensitive web design concepts. The main purpose of our project was to develop a platform that largely helps educators to make decisions after viewing details, students to realize how wonderful the world around them is, organizations or photographers to present their work or advertise, and the working class to just relax and play games to take a break. We have tested and analysed each functionality before presenting it. We intend to improvise in the future
+      # https://docs.microsoft.com/en-us/power-platform/admin/about-unified-interface
       # Icon (from /images/illustrations/icons/___.svg)
       icon: u-inter # https://www.flaticon.com/free-icon/responsive_1055687?term=interface&page=1&position=17&page=1&position=17&related_id=1055687&origin=search
     # - title: Cross-device synchronisation
@@ -106,21 +108,25 @@ params:
     buttonText: Let's Get Started
     buttonLink: "#"
   section4:
-    title: We are Flattered.
-    subtitle: We trust our Clients. Hence they trust us!
+    title: Our Group Members Include
+    subtitle: Mohammed Ashab Uddin, Benjamin Jacob Reji, Anas Patel, Riya Koshy, Prithyuksha Viswanathan, Jerome Joji, Mohammed Boush		
     clients:
-    - name: Riya Koshy
-      quote: It is a very interesting app that keeps me on my feet! It has kept me in touch with nature that surrounds me.
-      job: Student
-      img: woman # https://www.flaticon.com/free-icon/woman_2922561?term=women&related_id=2922561
-    - name: Anas Patel
-      quote: A very professional app. Helps me engage in different activities during my free time with my friends and family.
-      job: Student
+    - 
+      quote: We enjoyed contributing towards this project as it is for a good cause.
+      job: Team Member
       img: man
-    - name: Prithyuksha Viswanathan
-      quote: I am using this app everyday. It gives me joy in sharing the special moments I have spent with my pet dog KoKo. With the help of this app, I now meet up with a few friends during the weekend for play dates!
-      job: Student
+    - 
+      quote: We use this app everyday. We were able to complete this due to our motivation and communication.
+      job: Team Mmeber
       img: woman
+    - 
+      quote: We are proud to create this platform. We were able to guide my fellow team members and make everything work sucessfully.
+      job: Team Leader
+      img: man
+    
+ # https://www.flaticon.com/free-icon/woman_2922561?term=women&related_id=2922561
+    
+    
   section5: true
   footer:
     # Logo (from /images/logos/___)
